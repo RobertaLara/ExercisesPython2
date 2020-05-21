@@ -10,6 +10,7 @@
                 # - Sindicato ( 5%) : R$
         # 5 - = Salário Liquido : R$
             # Obs.: Salário Bruto - Descontos = Salário Líquido
+#Programadora Roberta Lara
 
 import os          
 def clear():            # Função para limpar console
