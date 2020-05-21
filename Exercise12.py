@@ -13,7 +13,7 @@ sexo = input("\nQual o seu sexo?"
             "\n\tPara homem, digite 1"
             "\n\tPara mulher, digite qualquer outro valor\n")
 
-if (sexo == '1'):
+if (sexo == '1'):               # Se for homem, o calculo realizado será um. Se for mulher, o cálculo será outro
     pesoIdeal = round(((float(altura) * 72.7) - 58),3)      # round mostra a quantidade de casas decimais que eu desejar
 elif (sexo != '1'):
     pesoIdeal = round(((float(altura) * 62.1) - 44.7),3)
