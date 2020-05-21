@@ -1,4 +1,4 @@
-# Exercício 08 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit
+# Exercício 09 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit
 # Programadora Roberta Lara
 
 import os          
